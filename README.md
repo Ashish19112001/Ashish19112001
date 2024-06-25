@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jacksonashish1122@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z3lfOsXT97EzL-8saFWPrg-ldKzSpjC2/view?usp=drive_link](https://drive.google.com/file/d/1Z3lfOsXT97EzL-8saFWPrg-ldKzSpjC2/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1YfCaZovtLc336HCiQHq5_eeHBN3HbTdh/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
