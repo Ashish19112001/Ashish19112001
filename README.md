@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS and Django REST**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-ashish.netlify.app/](https://my-portfolio-ashish.netlify.app/)
+- 👨‍💻 All of my projects are available at https://ashuu-portfolio.netlify.app/
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, ReactJS**
 
